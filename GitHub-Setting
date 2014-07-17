@@ -15,6 +15,9 @@ SetUp Environment :
 		You can permanently add C:\MinGW\bin; to your PATH by following the 
 		instructions in the "Environment Settings" section on the MinGW Getting Started page.
 		
+	Install Git Bash 
+		https://openhatch.org/missions/windows-setup/install-git-bash
+		
 	Windows Eclipse
 		installing 64 bit JVM from http://www.java.com/en/download/manual.jsp
 		http://eclipse.org/egit/download/ - Eclipse Download

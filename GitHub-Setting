@@ -2,6 +2,11 @@ It's for C Programming.
 
 gcc -o arg_va arg_va.c
 
+g++ helloworld.cpp -o helloworld.exe
+g++ helloworld.cpp foo.cpp -o helloworld.exe
+
+
+
 /* If the headers are located in some other (non-standard) location you would include like standard headers:
 use the -I (uppercase i ) flag to include the directory containing them. */
 gcc -I/path/to/directory/containing/header_name -o myoutputfile myoutputfile.c
